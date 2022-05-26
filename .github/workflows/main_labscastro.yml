@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'labscastro'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F91219CCBEBF4DB6BFD304C165DF24A8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3AABB6F0CAE0463EB4AE6DA168797628 }}
           package: .
